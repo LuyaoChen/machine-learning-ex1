@@ -1,4 +1,4 @@
 # machine-learning-ex1
-Coursera Machine Learning Homework 
-Programming Language: Octave
-Professor: Andrew Ng
+Coursera Machine Learning Homework <br />
+Programming Language: Octave <br />
+Professor: Andrew Ng <br />
